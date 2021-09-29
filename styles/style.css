@@ -2,7 +2,6 @@
 *::after,
 *::before {
   box-sizing: inherit;
-  overflow-x:hidden;
   /* border: 1px red solid; */
 }
 
