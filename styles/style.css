@@ -641,7 +641,7 @@ header nav li a:hover {
   .section-hero::after {
     transform: rotate(-7deg) translateX(-3%) translateY(-40%);
     width: 170vw;
-    height: 120vh;
+    height: clamp(930px, 100vw, 1162.5px);
   }
 
   .section-hero__details {
