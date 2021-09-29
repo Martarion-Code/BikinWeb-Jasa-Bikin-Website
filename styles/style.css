@@ -796,6 +796,7 @@ header nav li a:hover {
   .footer-part-bottom {
     margin-top: 30px;
     font-size: .8rem;
+    padding: 0 10px;
     
   }
 }
