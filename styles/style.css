@@ -661,6 +661,10 @@ header nav li a:hover {
     font-size: 0.7rem;
   }
 
+.section-choosing-us {
+    padding: clamp(200px, 20vw, 350px) 0 100px;
+  }
+
   .section-choosing-us__details {
     display: flex;
     flex-direction: column;
